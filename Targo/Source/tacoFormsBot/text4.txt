@@ -1,0 +1,12 @@
+Although this client can be used with a User Token, I highly recommend that you use a bot token to get the best experience raiding a server. For the client to be able to raid a server you must create or use an existing discord bot token. Refer to the link below to create a bot and find token. https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial
+
+To get the bot added to a discord server and hence raid the server, you must have the Manage Server Permission. You can also convince someone with the Manage Server Permission to add the bot using Social Engineering and claiming that the bot has special administration commands or whatnot. In a later build of Targo, I will include modules that will allow the client to hide as a bot with actual useful commands.  
+ 
+If a command does not work, it is likely because the bot does not have permissions to perform the action. If you are getting someone to add your bot, make sure that it has administrator permissions. You can enforce whoever adds the bot to give it admin permissions by using a URL generator as such: https://discordapi.com/permissions.html although it is still possible to remove the 
+
+To report any bugs or if you have any suggestions, you can message me on the discord server:
+https://discord.gg/3qhtEsk
+
+Known Issues:
+Windows 7 web socket compatibility aka program doesnt work on windows 7 lol
+Also, I have seen version of my program re-posted onto various websites packed with malware.  Only official download link is from Tacotad.xyz, Otherwise if you downloaded this from any other filehost it isnt and official download. 
