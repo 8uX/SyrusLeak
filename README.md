@@ -14,3 +14,6 @@ This repo contains most of Syrus tools sourcecode without obsfucater
 
 ## Discord
 Syz#0001
+
+## Credit
+Cracked By [Ignacio](https://github.com/k6d)
